@@ -1,0 +1,9 @@
+/bin
+/target
+.classpath
+.project
+.settings
+*.h
+!test.h
+*.py[c|x]
+*.swp
